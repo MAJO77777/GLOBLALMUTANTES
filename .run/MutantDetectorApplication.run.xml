@@ -1,0 +1,12 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="MutantDetectorApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+    <option name="MAIN_CLASS_NAME" value="org.example.MutantDetectorApplication" />
+    <module name="mutant-detector" />
+    <option name="VM_PARAMETERS" value="" />
+    <option name="PROGRAM_PARAMETERS" value="" />
+    <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
